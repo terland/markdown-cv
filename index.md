@@ -19,8 +19,7 @@ for øyeblikket har jeg ansvar for MA0301 - Elementær Diskret Matematikk.
 
 `2019-i dag`
 __NTNU__
- - Begynte på Master i 2019
- - Begynte så i 2020 på Integrert doktorgrad. Master ble formelt fullført i 2021.
+ - Begynte på Master i 2019. Begynte så i 2020 på Integrert doktorgrad. Master ble formelt fullført i 2021.
 
 `2016-2019`
 __UiB__
@@ -32,7 +31,9 @@ __UiB__
 `Sommer 2020` **Itera** Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
-__Lånekassen__ Data scientist. Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
+__Lånekassen__ 
+- *Data scientist*
+- Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
 
 `Sommer 2018` __SSB__\ Sommer intern. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
 
