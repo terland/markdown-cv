@@ -12,24 +12,26 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elemenetær Diskret Matematikk. 
+Jeg er stipendiat ved NTNU, ansatt på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elementær Diskret Matematikk. 
 
 ## Utdanning
 
-`2020-i dag`
-__NTNU, Trondheim__
-Integrert PhD. Master ble formelt fullført i 2021.
+`2019-i dag`
+__NTNU__
+ - Begynte på Master i 2019
+ - Begynte så i 2020 på Integrert doktorgrad. Master ble formelt fullført i 2021.
 
 `2016-2019`
-__UiB, Bergen__
-Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Tok, utenom emner i matematikk, også emner i datavitenskap, logikk og Tysk språk.
+__UiB__
+
+- Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Tok, utenom emner i matematikk, også emner i datavitenskap, logikk og Tysk språk.
 
 ## Erfaringer
 
-`Sommer 2020` __Itera__\ Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
+`Sommer 2020` **Itera** Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
-__Lånekassen__\ Data scientist. Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
+__Lånekassen__ Data scientist. Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
 
 `Sommer 2018` __SSB__\ Sommer intern. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
 
