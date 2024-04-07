@@ -12,8 +12,7 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elemenetær Diskret Matematikk.
-
+Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elemenetær Diskret Matematikk. 
 
 ## Utdanning
 
@@ -35,9 +34,9 @@ __Lånekassen__, Data scientist på 30% midlertidig engasjement hvor jeg deltok 
 `Sommer 2018` __SSB__, sommerjobb i statisisk sentralbyrå. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
 
 ## Språk
-__Norsk__ - morssmål
-__Engelsk__ - flytende
-__Tysk__ - omtrent nivå C1
+__Norsk__ - morsmål\
+__Engelsk__ - flytende (engelsk mitt nåværende de facto arbeiddspråk)\
+__Tysk__ - omtrent nivå C1 (tilstrekkelig til uformell samtale, kan lese på et høyt nivå)\
 
 ## Frivillige engasjement og hobbyer
 
