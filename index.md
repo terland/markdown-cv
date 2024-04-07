@@ -6,7 +6,7 @@ title: CV - Håvard Terland
 Stipendiat i matematikk ved NTNU
 
 <div id="webaddress">
-<a href="havard.terland@gmail.com">havard.terland@gmail.com</a>
+<a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759
 </div>
 
 
