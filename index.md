@@ -28,21 +28,22 @@ __UiB__
 
 ## Erfaringer
 
-`Sommer 2020` **Itera** Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap. 
+`Sommer 2020` **Itera** - *Sommer intern* \
+Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap. 
 
 `2019`
-__Lånekassen__ 
-- *Data scientist*
-- Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
+__Lånekassen__ - *Data scientist* \
 
-`Sommer 2018` __SSB__
-- Sommer intern. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
+Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
+
+`Sommer 2018` __SSB__ - *Sommer intern* \
+Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
 
 `2016-2018` 
 
 ## Språk
-- __Norsk__ - morsmål\
-- __Engelsk__ - flytende (engelsk mitt nåværende de facto arbeiddspråk)\
+- __Norsk__ - morsmål
+- __Engelsk__ - flytende (engelsk mitt nåværende de facto arbeiddspråk)
 - __Tysk__ - omtrent nivå C1 (tilstrekkelig til uformell samtale, kan lese på et høyt nivå)
 
 ## Frivillige engasjement og hobbyer
