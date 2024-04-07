@@ -12,7 +12,7 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC)
+Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elemenetær Diskret Matematikk. 
 
 ### Kompetanse
 
@@ -23,7 +23,7 @@ Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications o
 
 `2020-i dag`
 __NTNU, Trondheim__
-Integrert PhD (formelt fullført master 2021)
+Integrert PhD. Master ble formelt fullført i 2021.
 
 `2016-2019`
 __UiB, Bergen__
@@ -31,6 +31,12 @@ Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität
 
 ## Erfaringer
 
+`2020` __Itera__, sommerjobb. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
+
+`2019`
+__Lånekassen__, 30% midlertidig engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
+
+`Sommer 2018` __SSB__ sommerjobb i statisisk sentralbyrå. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
 
 ## Engasjement
 
