@@ -26,24 +26,27 @@ Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität
 
 ## Erfaringer
 
-`Sommer 2020` __Itera__, Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
+`Sommer 2020` __Itera__\ Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
-__Lånekassen__, Data scientist på 30% midlertidig engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
+__Lånekassen__\ Data scientist. Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
 
-`Sommer 2018` __SSB__, sommerjobb i statisisk sentralbyrå. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
+`Sommer 2018` __SSB__\ Sommer intern. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
+
+`2016-2018` 
 
 ## Språk
 __Norsk__ - morsmål\
 __Engelsk__ - flytende (engelsk mitt nåværende de facto arbeiddspråk)\
-__Tysk__ - omtrent nivå C1 (tilstrekkelig til uformell samtale, kan lese på et høyt nivå)\
+__Tysk__ - omtrent nivå C1 (tilstrekkelig til uformell samtale, kan lese på et høyt nivå)
 
 ## Frivillige engasjement og hobbyer
 
-`2019- i dag` Har de siste årene drevet en del med løping. Siste løp jeg deltok i var Harandrvidda Halvmaraton, september 2023.
+`2019- i dag` __Langdistanseløping__ Siste løp jeg deltok i var Harandrvidda Halvmaraton, september 2023.
 
 `2018- i dag`
-Styremedlem i Norsk informatikkolympiade (NIO), en programmeringskonkurranse for videregående elever i Norge.
+__Styremedlem i Norsk informatikkolympiade__\
+Jeg har en god stund vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge.
 
 
 
