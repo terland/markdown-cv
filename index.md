@@ -12,11 +12,7 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elemenetær Diskret Matematikk. 
-
-### Kompetanse
-
-
+Stipendiat ved NTNU, på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elemenetær Diskret Matematikk.
 
 
 ## Utdanning
@@ -31,18 +27,24 @@ Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität
 
 ## Erfaringer
 
-`2020` __Itera__, sommerjobb. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
+`Sommer 2020` __Itera__, Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
-__Lånekassen__, 30% midlertidig engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
+__Lånekassen__, Data scientist på 30% midlertidig engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
 
-`Sommer 2018` __SSB__ sommerjobb i statisisk sentralbyrå. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
+`Sommer 2018` __SSB__, sommerjobb i statisisk sentralbyrå. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
 
-## Engasjement
+## Språk
+__Norsk__ - morssmål
+__Engelsk__ - flytende
+__Tysk__ - omtrent nivå C1
+
+## Frivillige engasjement og hobbyer
+
+`2019- i dag` Har de siste årene drevet en del med løping. Siste løp jeg deltok i var Harandrvidda Halvmaraton, september 2023.
 
 `2018- i dag`
 Styremedlem i Norsk informatikkolympiade (NIO), en programmeringskonkurranse for videregående elever i Norge.
-
 
 
 
