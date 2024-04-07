@@ -12,7 +12,8 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Jeg er stipendiat ved NTNU, ansatt på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). Utenom forskning underviser jeg på instituttet. For øyeblikket foreleser jeg MA0301 - Elementær Diskret Matematikk. 
+Jeg er stipendiat ved NTNU, ansatt på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). I forskningsarbeidet mitt synes jeg det mest spennende er å undersøke koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet, 
+for øyeblikket har jeg ansvar for MA0301 - Elementær Diskret Matematikk. 
 
 ## Utdanning
 
@@ -31,9 +32,9 @@ __UiB__
 `Sommer 2020` **Itera** Sommer intern. Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
-__Lånekassen__ Data scientist. Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. 
+__Lånekassen__ Data scientist. Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
 
-`Sommer 2018` __SSB__\ Sommer intern. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk.
+`Sommer 2018` __SSB__\ Sommer intern. Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
 
 `2016-2018` 
 
@@ -44,11 +45,15 @@ __Tysk__ - omtrent nivå C1 (tilstrekkelig til uformell samtale, kan lese på et
 
 ## Frivillige engasjement og hobbyer
 
-`2019- i dag` __Langdistanseløping__ Siste løp jeg deltok i var Harandrvidda Halvmaraton, september 2023.
-
 `2018- i dag`
 __Styremedlem i Norsk informatikkolympiade__\
 Jeg har en god stund vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge.
+
+`2019- i dag` __Langdistanseløping__ 
+- Hardangervidda Halvmaraton, september 2023.
+- HAJ Hannover Marathon (halv), sommeren 2019.
+
+
 
 
 
