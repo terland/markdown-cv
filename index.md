@@ -15,9 +15,12 @@ Stipendiat i matematikk ved NTNU
 Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. For øyeblikket har jeg ansvar for MA0301, Elementær Diskret Matematikk. 
 
 ## Nøkkelkvalifikasjoner
-Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap. Blant programmeringsspråk vil jeg nevne Python, C++ og R. Av andre teknologier vil jeg nevne maskinlæring, databaser og SQL og cloud computing (Azure). 
 
-Både som bahcelor- og masterstudent har jeg utenom dette drevet med undervisning som studentassistent og har de siste året som stipendiat forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene med undervisning opparbeidet meg en del ledererfaring. 
+Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap:
+
+Det siste året har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. 
+
+Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene med undervisning opparbeidet meg en del ledererfaring. 
 
 ## Utdanning
 
@@ -58,13 +61,19 @@ Høsten 2022 deltok jeg på et introkurs til kvanteberegning. Kurset foregikk p�
 
 ## Frivillige engasjement og hobbyer
 
-`2018- i dag
+`2018- i dag`
 __Styremedlem i Norsk informatikkolympiade__\
 Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge. Se <a href="nio.no">nio.no</a> for mer informasjon om det vi gjør.
+
+`2021-2023`
+__Formidling av risiko i kryptovaluta__\
+Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til såkalte stablecoins (i grunnen pengemarkedsfond på blokkjeder) og pekte på det jeg mente var undervurdert risiko.
 
 `2019- i dag` __Langdistanseløping__ 
 - Hardangervidda Halvmaraton, september 2023.
 - HAJ Hannover Marathon (halv), sommeren 2019.
+
+
 
 
 
