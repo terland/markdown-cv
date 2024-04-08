@@ -51,14 +51,14 @@ Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-åri
 
 ## Utvalg kurs og konferanser
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
-Sommerskole om en familie teknikker i maskinlæring som har koblinger til mitt forskningsfelt. Jeg holdt her seminar. Mer info om samlingen finnes her: <<a href="https://www.math.uni-bielefeld.de/birep/activities/summer2023/">https://www.math.uni-bielefeld.de/birep/activities/summer2023/</a>.
+Sommerskole om en familie teknikker i maskinlæring som har koblinger til mitt forskningsfelt. \
 `Høst 2022` __Gemini School on Quantum Computation__ \
-
+Høsten 2022 deltok jeg på et veldig spennende introkurs til kvanteberegning. Kurset foregikk i Oslo.
 
 
 ## Frivillige engasjement og hobbyer
 
-`2018- i dag`
+`2018- i dag
 __Styremedlem i Norsk informatikkolympiade__\
 Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge. Se <a href="nio.no">nio.no</a> for mer informasjon om det vi gjør.
 
