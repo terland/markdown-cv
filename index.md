@@ -12,8 +12,7 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Jeg er stipendiat ved NTNU, ansatt på det NFR-finansierte forskingsprosjektet "Applications of Reduction Techniques and Computations in Representation Theory" (ARTaC). I forskningsarbeidet mitt synes jeg det mest spennende er å undersøke koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet, 
-for øyeblikket har jeg ansvar for MA0301 - Elementær Diskret Matematikk. 
+Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. For øyeblikket har jeg ansvar for MA0301, Elementær Diskret Matematikk. 
 
 ## Utdanning
 
