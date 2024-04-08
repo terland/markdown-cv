@@ -12,7 +12,7 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. For øyeblikket har jeg ansvar for MA0301, Elementær Diskret Matematikk. 
+Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. Våren 2024 foreleser jeg MA0301 - Elementær diskret matematikk. 
 
 ## Nøkkelkvalifikasjoner
 
@@ -54,7 +54,7 @@ Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-åri
 ## Språk
 - __Norsk__ - morsmål
 - __Engelsk__ - flytende
-- __Tysk__ - omtrent nivå C1, med spesielt god lese- og høre-forståelse.
+- __Tysk__ - omtrent nivå C1
 
 ## Utvalg kurs og konferanser
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
@@ -73,7 +73,7 @@ Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for vide
 __Formidling av risiko i kryptovaluta__\
 Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til såkalte stablecoins (i grunnen pengemarkedsfond på blokkjeder) og pekte på det jeg mente var undervurdert risiko.
 
-`2019- i dag` __Langdistanseløping__ 
+`2019- i dag` __Langdistanseløping__ \
 - Hardangervidda Halvmaraton, september 2023.
 - HAJ Hannover Marathon (halv), sommeren 2019.
 
