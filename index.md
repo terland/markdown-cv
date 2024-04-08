@@ -16,11 +16,14 @@ Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg
 
 ## Nøkkelkvalifikasjoner
 
-Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap:
+__IT-teknologi__\
+Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap.
 
-Det siste året har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. 
+__Undervisning og formidling__ \
+Det siste året har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. 
 
-Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene med undervisning opparbeidet meg en del ledererfaring. 
+__Ledelse og teamarbeid__
+Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene blant annet gjennom undervisningsarbeidet opparbeidet meg ledererfaring. 
 
 ## Utdanning
 
