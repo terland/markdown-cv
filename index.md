@@ -21,7 +21,7 @@ Jeg har gjennom et knippe kortere og lengre engasjement i IT-sektoren erfaring m
 
 `2019-i dag`
 __NTNU__ \
-Begynte på Master i 2019. Begynte så i 2020 på Integrert doktorgrad. Fullførte offisielt MSc i 2019.
+Begynte på master i matematiske fag i 2019. Begynte så i 2020 på integrert doktorgrad. Fullførte offisielt MSc i 2021.
 
 `2016-2019`
 __UiB__ \
@@ -44,8 +44,8 @@ Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-åri
 
 ## Språk
 - __Norsk__ - morsmål
-- __Engelsk__ - flytende (engelsk mitt nåværende de facto arbeiddspråk)
-- __Tysk__ - omtrent nivå C1 (tilstrekkelig til uformell samtale, kan lese på et høyt nivå)
+- __Engelsk__ - flytende
+- __Tysk__ - omtrent nivå C1, med spesielt god lese- og høre-forståelse.
 
 ## Frivillige engasjement og hobbyer
 
