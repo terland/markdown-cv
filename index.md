@@ -47,6 +47,13 @@ Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-åri
 - __Engelsk__ - flytende
 - __Tysk__ - omtrent nivå C1, med spesielt god lese- og høre-forståelse.
 
+## Utvalg kurs og konferanser
+`Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
+Sommerskole om en familie teknikker i maskinlæring som har koblinger til mitt forskningsfelt. Jeg holdt her seminar. Mer info om samlingen finnes her: <<a href="https://www.math.uni-bielefeld.de/birep/activities/summer2023/">https://www.math.uni-bielefeld.de/birep/activities/summer2023/</a>.
+`Høst 2022` __Gemini School on Quantum Computation__ \
+
+
+
 ## Frivillige engasjement og hobbyer
 
 `2018- i dag`
