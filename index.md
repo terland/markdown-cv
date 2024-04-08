@@ -6,7 +6,7 @@ title: CV - Håvard Terland
 Stipendiat i matematikk ved NTNU
 
 <div id="webaddress">
-<a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759
+1. <a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759 | f. 18.11.1997 | Bynesveien 8, 7018 Trondheim
 </div>
 
 
@@ -18,28 +18,27 @@ for øyeblikket har jeg ansvar for MA0301 - Elementær Diskret Matematikk.
 ## Utdanning
 
 `2019-i dag`
-__NTNU__
- - Begynte på Master i 2019. Begynte så i 2020 på Integrert doktorgrad. Master ble formelt fullført i 2021.
+__NTNU__ \
+Begynte på Master i 2019. Begynte så i 2020 på Integrert doktorgrad. Fullførte offisielt MSc i 2019.
 
 `2016-2019`
-__UiB__
-
-- Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Tok, utenom emner i matematikk, også emner i datavitenskap, logikk og Tysk språk.
+__UiB__ \
+Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Tok, utenom emner i matematikk, også emner i datavitenskap, logikk og Tysk språk.
 
 ## Erfaringer
 
-`Sommer 2020` **Itera** - *Sommer intern* \
+`Sommer 2020` **Itera** - *Intern* \
 Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap. 
 
 `2019`
 __Lånekassen__ - *Data scientist* \
-
 Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
 
-`Sommer 2018` __SSB__ - *Sommer intern* \
+`Sommer 2018` __SSB__ - *Intern* \
 Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
 
-`2016-2018` 
+`2016-2018` __Sonat__ - *Webutvikler* \
+Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-årig periode.
 
 ## Språk
 - __Norsk__ - morsmål
@@ -50,7 +49,7 @@ Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesi
 
 `2018- i dag`
 __Styremedlem i Norsk informatikkolympiade__\
-Jeg har en god stund vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge.
+Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge. Se <a href="nio.no">nio.no</a> for mer informasjon om det vi gjør.
 
 `2019- i dag` __Langdistanseløping__ 
 - Hardangervidda Halvmaraton, september 2023.
