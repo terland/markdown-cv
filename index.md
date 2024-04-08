@@ -15,7 +15,7 @@ Stipendiat i matematikk ved NTNU
 Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. For øyeblikket har jeg ansvar for MA0301, Elementær Diskret Matematikk. 
 
 ## Nøkkelkvalifikasjoner
-Jeg har gjennom et knippe engasjement i IT-sektoren, utdanning og deltakelse i samt organisering av programmeringskonkurranser god erfaring med diverse teknologier i datavitenskap. Blant programmeringsspråk vil jeg nevne Python, C++ og R. Av andre teknologier vil jeg nevne maskinlæring, databaser og SQL og cloud computing (Azure). 
+Jeg har gjennom et knippe engasjement i IT-sektoren og utdanning erfaring med diverse teknologier i datavitenskap. Blant programmeringsspråk vil jeg nevne Python, C++ og R. Av andre teknologier vil jeg nevne maskinlæring, databaser og SQL og cloud computing (Azure). 
 
 Både som bahcelor- og masterstudent har jeg utenom dette drevet med undervisning som studentassistent og har de siste året som stipendiat forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene med undervisning opparbeidet meg en del ledererfaring. 
 
@@ -23,7 +23,7 @@ Både som bahcelor- og masterstudent har jeg utenom dette drevet med undervisnin
 
 `2019-i dag`
 __NTNU__ \
-Begynte på master i matematiske fag i 2019. Begynte så i 2020 på integrert doktorgrad. Fullførte offisielt MSc i 2021.
+Fullførte offisielt master i matematiske fag (MSc) i 2021. Ansatt som stipendiat på fulltid siden da, med plan om å disputere sommeren 2025.
 
 `2016-2019`
 __UiB__ \
@@ -51,9 +51,9 @@ Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-åri
 
 ## Utvalg kurs og konferanser
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
-Sommerskole om en familie teknikker i maskinlæring som har koblinger til mitt forskningsfelt. \
+Sommeren 2023 deltok jeg på en sommerskole om teknikker i maskinlæring som har koblinger til mitt forskningsprosjekt ved NTNU. \
 `Høst 2022` __Gemini School on Quantum Computation__ \
-Høsten 2022 deltok jeg på et veldig spennende introkurs til kvanteberegning. Kurset foregikk i Oslo.
+Høsten 2022 deltok jeg på et introkurs til kvanteberegning. Kurset foregikk på UiO.
 
 
 ## Frivillige engasjement og hobbyer
