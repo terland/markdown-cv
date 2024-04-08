@@ -14,6 +14,9 @@ Stipendiat i matematikk ved NTNU
 
 Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. For øyeblikket har jeg ansvar for MA0301, Elementær Diskret Matematikk. 
 
+## Nøkkelkvalifikasjoner
+Jeg har gjennom et knippe kortere og lengre engasjement i IT-sektoren erfaring med blant annet maskinlæring, databaser og cloud computing. Både som bahcelor- og masterstudent har jeg utenom dette drevet med undervisning som studentassistent og har de siste året som stipendiat forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene med undervisning ledet grupper med studentassistener og hjulpet dem med å gjøre en god jobb i emnet.
+
 ## Utdanning
 
 `2019-i dag`
@@ -22,7 +25,7 @@ Begynte på Master i 2019. Begynte så i 2020 på Integrert doktorgrad. Fullfør
 
 `2016-2019`
 __UiB__ \
-Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Tok, utenom emner i matematikk, også emner i datavitenskap, logikk og Tysk språk.
+Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Utenom matematikk har jeg tatt emner i datavitenskap, matematisk logikk og Tysk.
 
 ## Erfaringer
 
@@ -31,7 +34,7 @@ Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
 __Lånekassen__ - *Data scientist* \
-Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen. Ble her bedre kjent med Python for tekstanalyse.
+Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen, i sammenheng med deres interne flytting til skytjenester (Microsoft). Jeg ble her bedre kjent med blant annet databaser og Python for tekstanalyse.
 
 `Sommer 2018` __SSB__ - *Intern* \
 Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
