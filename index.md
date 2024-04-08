@@ -15,7 +15,7 @@ Stipendiat i matematikk ved NTNU
 Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. For øyeblikket har jeg ansvar for MA0301, Elementær Diskret Matematikk. 
 
 ## Nøkkelkvalifikasjoner
-Jeg har gjennom et knippe engasjement i IT-sektoren og utdanning erfaring med diverse teknologier i datavitenskap. Blant programmeringsspråk vil jeg nevne Python, C++ og R. Av andre teknologier vil jeg nevne maskinlæring, databaser og SQL og cloud computing (Azure). 
+Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap. Blant programmeringsspråk vil jeg nevne Python, C++ og R. Av andre teknologier vil jeg nevne maskinlæring, databaser og SQL og cloud computing (Azure). 
 
 Både som bahcelor- og masterstudent har jeg utenom dette drevet med undervisning som studentassistent og har de siste året som stipendiat forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. Jeg trives både med problemløsning på egen hånd og samarbeid i team, og har gjennom de siste årene med undervisning opparbeidet meg en del ledererfaring. 
 
