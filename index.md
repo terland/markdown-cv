@@ -6,7 +6,7 @@ title: CV - Håvard Terland
 Stipendiat i matematikk ved NTNU
 
 <div id="webaddress">
-<a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759 | f. 18.11.1997 | Bynesveien 8, 7018 Trondheim
+<a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759 | f. 18.11.1997 | Adr. Bynesveien 8, 7018 Trondheim
 </div>
 
 
@@ -16,7 +16,7 @@ Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt i ma
 
 ## Nøkkelkvalifikasjoner
 
-__IT-teknologi__\
+__IT__\
 Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap, inklusive maskinlæring, databaser, cloud computing og diverse programmeringsspråk.
 
 __Undervisning og formidling__ \
@@ -43,7 +43,7 @@ Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
 __Lånekassen__ - *Data scientist* \
-Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen, i sammenheng med deres interne flytting til skytjenester (Microsoft). Jeg ble her bedre kjent med blant annet databaser og Python for tekstanalyse.
+Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen, i sammenheng med deres interne flytting til skytjenester (Microsoft). Jeg ble her bedre kjent med blant annet databaser, Microsoft Azure og Python for maskinlæring (tekstanalyse).
 
 `Sommer 2018` __SSB__ - *Intern* \
 Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
@@ -74,8 +74,8 @@ __Formidling av risiko i kryptovaluta__\
 Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til såkalte stablecoins (i grunnen pengemarkedsfond på blokkjeder) og pekte på det jeg mente var undervurdert risiko.
 
 `2019- i dag` __Langdistanseløping__ \
-- Hardangervidda Halvmaraton, september 2023.
-- HAJ Hannover Marathon (halv), sommeren 2019.
+- Hardangervidda Halvmaraton, 2023
+- HAJ Hannover Marathon, 2019
 
 
 
