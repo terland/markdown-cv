@@ -12,7 +12,7 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt. Jeg er opptatt av koblinger mellom datavitenskap, algoritmer og matematikk. Utenom forskning underviser jeg på instituttet. Våren 2024 foreleser jeg MA0301 - Elementær diskret matematikk. 
+Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt i matematikk. Jeg er opptatt av koblinger mellom algoritmer og matematikk. Utenom forskning underviser jeg på institutt for matematiske fag. Våren 2024 foreleser jeg MA0301 - Elementær diskret matematikk. 
 
 ## Nøkkelkvalifikasjoner
 
