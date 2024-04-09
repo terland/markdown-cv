@@ -49,7 +49,7 @@ Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden
 Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
 
 `2016-2018` __Sonat__ - *Webutvikler* \
-Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-årig periode.
+Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to-årig periode.
 
 ## Språk
 - __Norsk__ - morsmål
