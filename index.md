@@ -59,6 +59,7 @@ Jeg lagde og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en ca. to-åri
 ## Utvalg kurs og konferanser
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
 Sommeren 2023 deltok jeg på en sommerskole om teknikker i maskinlæring som har koblinger til mitt forskningsprosjekt ved NTNU. \
+
 `Høst 2022` __Gemini School on Quantum Computation__ \
 Høsten 2022 deltok jeg på et introkurs til kvanteberegning. Kurset foregikk på UiO.
 
