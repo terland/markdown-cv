@@ -74,7 +74,7 @@ Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for vide
 __Formidling av risiko i kryptovaluta__\
 Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til såkalte stablecoins (i grunnen pengemarkedsfond på blokkjeder) og pekte på det jeg mente var undervurdert risiko.
 
-`2019- i dag` __Langdistanseløping__ \
+`2019- i dag` __Langdistanseløping__
 - Hardangervidda Halvmaraton, 2023
 - HAJ Hannover Marathon, 2019
 
