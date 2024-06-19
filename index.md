@@ -12,12 +12,12 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Jeg er stipendiat ved NTNU, ansatt på et NFR-finansiert forskningsprosjekt i matematikk. Jeg er opptatt av koblinger mellom algoritmer og matematikk. Utenom forskning underviser jeg på institutt for matematiske fag. Våren 2024 foreleser jeg MA0301 - Elementær diskret matematikk. 
+Stipendiat i matematikk ved NTNU. Ved siden av forskning har jeg deltatt i undervisningsarbeid på instituttet. 
 
 ## Nøkkelkvalifikasjoner
 
 __IT__\
-Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap, inklusive maskinlæring, databaser, cloud computing og diverse programmeringsspråk.
+Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap, inklusive maskinlæring, databaser og cloud computing.
 
 __Undervisning og formidling__ \
 Det siste året har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. 
@@ -34,7 +34,7 @@ Fullførte offisielt master i matematiske fag (MSc) i 2021. Ansatt som stipendia
 
 `2016-2019`
 __UiB__ \
-Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Utenom matematikk har jeg tatt emner i datavitenskap, matematisk logikk og Tysk.
+Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. Utenom matematikk har jeg tatt emner i datavitenskap, logikk og Tysk.
 
 ## Erfaringer
 
@@ -43,13 +43,13 @@ Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap.
 
 `2019`
 __Lånekassen__ - *Data scientist* \
-Midlertid engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen, i sammenheng med deres interne flytting til skytjenester (Microsoft). Jeg ble her bedre kjent med blant annet databaser, Microsoft Azure og Python for maskinlæring (tekstanalyse).
+Midlertid 30% engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen, i sammenheng med deres interne flytting til skytjenester (Microsoft). Jeg ble her bedre kjent med blant annet databaser, Microsoft Azure og Python for maskinlæring (tekstanalyse).
 
 `Sommer 2018` __SSB__ - *Intern* \
 Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Ble her kjent med R og SQL.
 
 `2016-2018` __Sonat__ - *Webutvikler* \
-Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to-årig periode.
+Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to-årig periode. 
 
 ## Språk
 - __Norsk__ - morsmål
@@ -58,10 +58,10 @@ Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to-
 
 ## Utvalg kurs og konferanser
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
-Sommeren 2023 deltok jeg på en sommerskole om teknikker i maskinlæring som har koblinger til mitt forskningsprosjekt ved NTNU. \
+Sommeren 2023 deltok jeg på en sommerskole om matematiske teknikker i maskinlæring. \
 
 `Høst 2022` __Gemini School on Quantum Computation__ \
-Høsten 2022 deltok jeg på et introkurs til kvanteberegning. Kurset foregikk på UiO.
+Høsten 2022 deltok jeg på et introkurs til kvanteberegning.
 
 
 ## Frivillige engasjement og hobbyer
@@ -72,7 +72,7 @@ Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for vide
 
 `2021-2023`
 __Formidling av risiko i kryptovaluta__\
-Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til såkalte stablecoins (i grunnen pengemarkedsfond på blokkjeder) og pekte på det jeg mente var undervurdert risiko.
+Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til såkalte stablecoins (i grunnen et slags pengemarkedsfond på blokkjeder) og pekte på det jeg mente var undervurdert risiko.
 
 `2019- i dag` __Langdistanseløping__
 - Hardangervidda Halvmaraton, 2023
