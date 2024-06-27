@@ -12,18 +12,20 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Stipendiat i matematikk ved NTNU. Ved siden av forskning har jeg deltatt i undervisningsarbeid på instituttet. 
+Stipendiat i matematikk ved NTNU.
 
 ## Nøkkelkvalifikasjoner
+__Forskning og analyse__\
+Både som stipendiat i matematikk og intern i SSB har analyse- og forskningsarbeid, både selvstendig og i team, vært den viktigste arbeidsoppgaven min.
 
 __IT__\
-Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med diverse teknologier i datavitenskap, inklusive maskinlæring, databaser og cloud computing.
+Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med blant annet maskinlæring, databaser og cloud computing. Jeg  som Python, C++
 
 __Undervisning og formidling__ \
 Det siste året har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og siv.ing-studenter på Gløshaugen. Jeg er opptatt av formidling og synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende. 
 
 __Ledelse og teamarbeid__\
-Jeg har erfaring med ledelse og teamarbeid for eksempel som underviser og som arrangør av programmeringskonkurranser. Arbeidet mitt i Lånekassen og Itera var også grunnleggende teambasert.
+Jeg har erfaring med ledelse for eksempel som underviser og som arrangør av programmeringskonkurranser. Arbeidet mitt i Lånekassen og Itera var organisert som prosjektarbeid i teams, og i forskingsarbeidet mitt ved NTNU har jeg samarbeidet internasjonalt med forskere i for eksempel Tyskland og Frankrike.
 
 
 ## Utdanning
