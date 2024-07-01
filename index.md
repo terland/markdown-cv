@@ -5,7 +5,7 @@ title: CV - Håvard Terland
 # Håvard Utne Terland
 
 <div id="webaddress">
-<a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759 | f. 18.11.1997 | Adr. Bynesveien 8, 7018 Trondheim
+<a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | 90071759 | f. 18.11.1997 | Bynesveien 8, 7018 Trondheim
 </div>
 
 
