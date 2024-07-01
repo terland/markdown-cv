@@ -59,7 +59,7 @@ Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to-
 
 ## Utvalg kurs og konferanser
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ \
-Sommeren 2023 deltok jeg på en sommerskole om matematiske teknikker i maskinlæring. \
+Sommeren 2023 deltok jeg på en sommerskole om matematiske teknikker i maskinlæring. 
 
 `Høst 2022` __Gemini School on Quantum Computation__ \
 Høsten 2022 deltok jeg på et introkurs til kvanteberegning.
