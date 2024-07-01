@@ -3,7 +3,6 @@ layout: cv
 title: CV - Håvard Terland
 ---
 # Håvard Utne Terland
-Stipendiat i matematikk ved NTNU
 
 <div id="webaddress">
 <a href="havard.terland@gmail.com">havard.terland@gmail.com</a> | +47 90071759 | f. 18.11.1997 | Adr. Bynesveien 8, 7018 Trondheim
@@ -12,11 +11,11 @@ Stipendiat i matematikk ved NTNU
 
 ## Nåværende stilling
 
-Stipendiat i matematikk ved NTNU.
+Stipendiat i matematikk ved NTNU, på prosjektet "Applications of Reduction Techniques and Compuations in Representation Theory", finansiert av NFR.
 
 ## Nøkkelkvalifikasjoner
 __Forskning og analyse__\
-Både som stipendiat i matematikk og intern i SSB har analyse- og forskningsarbeid, både selvstendig og i team, vært den viktigste arbeidsoppgaven min.
+Både som stipendiat i matematikk og sommer-intern i SSB har analyse- og forskningsarbeid, både selvstendig og i team, vært den viktigste arbeidsoppgaven min.
 
 __IT__\
 Jeg har gjennom et knippe engasjement i IT-sektoren erfaring med blant annet maskinlæring, databaser og cloud computing.
