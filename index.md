@@ -49,7 +49,7 @@ As a PhD student at NTNU, I have worked among other things with computational as
 I worked with explorative data analytics for a large Norwegian fishing industry company on a summer project in Itera. Our team organized data from client in a database, which we queried to discover patterns, synthesise information and visualize data, for example in Power BI.
 
 `2019` __Lånekassen__ - *Data Scientist* \
-While studying in Trondheim, I was employed as a data scientist at Lånekassen (Norwegian State Educational Loan Fund). I here learned how Lånekassen had already implemented deep learning in their core business and worked on a project to design the future of AI and data engineering in the organization. In particular, I assisted in implenting proof of concept text analysis solutions on their newly acquired Azure-platform and documenting the work. I
+While studying in Trondheim, I was employed as a data scientist at Lånekassen (Norwegian State Educational Loan Fund). I here learned how Lånekassen had already implemented deep learning in their core business and worked on a project to design the future of AI and data engineering in the organization. In particular, I assisted in implenting proof of concept text analysis solutions on their newly acquired Azure-platform and documenting the work. 
 
 `Summer 2018` __SSB (Statistics Norway)__ - *Intern* \
 During a summer project in Statistics Norway, I learned about production of official statistics in general and in particular applications of machine learning in these processes. It was here that I was first familiarized with technologies like R, SQL and algorithms for supervised machine learning such as support vector machines (SVMs).
@@ -63,13 +63,13 @@ I implemented and maintained the webpage of Bergen-based IT-consulting company S
 - __German__ - approximately level C1
 
 ## A selection of conferences attended
-`Summer 2024` __International Conference on Representation theory of Algebras (ICRA 21)__\
+`Summer 2024` __International Conference on Representation theory of Algebras (ICRA 21)__
 
-`Autumn 2023` __Nordic AI meetup__\
+`Autumn 2023` __Nordic AI meetup__
 
-`Summer 2023` __BIREP Summer school on Topological Data Analysis__\
+`Summer 2023` __BIREP Summer school on Topological Data Analysis__
 
-`Autumn 2022` __Gemini School on Quantum Computation__\
+`Autumn 2022` __Gemini School on Quantum Computation__
 
 
 
@@ -77,7 +77,7 @@ I implemented and maintained the webpage of Bergen-based IT-consulting company S
 
 `2018-`
 __Board member in the Norwegian Olympiad in Informatics__\
-
+While in high school, I competed in the International Olympiad in Informatics and other programming competitions for students. After finishing high school, I wanted to give something back to the organization that had given me so many interesting opportunities. As a volunteer, I am prouded to have helped organizing the Norwegian competitions and to ensure Norways participation in the newly founded European Girls Olympiad in Informatics, which has included sucessfully working to include women in our organization.
 
 `2021-2023`
 __Writing on risks in cryptocurrencies__\
