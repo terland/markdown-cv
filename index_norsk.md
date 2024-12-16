@@ -38,20 +38,20 @@ __UiB__ \
 Bachelor i matematikk. Siste år tok jeg på utveksling til Leibniz Universität Hannover, i Tyskland. 
 
 ## Erfaring
-`2021-` **NTNU** - *Stipendiat* \
+`2021-` **NTNU** - *stipendiat* \
 Som stipendiat ved NTNU har jeg arbeidet med blant annet beregningsorientert algebra, tett knyttet til felt som topologisk dataanalyse (TDA), et felt innen matematikk som gir spesielt gode clustering-algoritmer for data. Arbeidsoppgavene mine har til daglig inkludert å implementere algoritmer i programmeringsspråk som Python og GAP (sistenevnte er spesiallaget for algebra), å skrive tekniske artikler og reise til internasjonale konferanser hvor jeg holder meg oppdatert på feltet og treffer samarbeidspartnere. I tillegg har jeg undervist matematikk for data- og ingeniørvitenskapstudenter ved NTNU.
 
-`Sommer 2020` **Itera** - *Intern* \
+`Sommer 2020` **Itera** - *intern* \
 Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap. Teamet vårt organiserte data fra klienten i en database, som vi da senere systematisk analyserte, avdekket mønstre og på enkelt vis kunne visualisere for kunden.
 
 `2019`
-__Lånekassen__ - *Data scientist* \
+__Lånekassen__ - *data scientist* \
 Midlertid 30% engasjement hvor jeg deltok på et prosjekt for å kartlegge fremtiden for bruk av avansert analyse og metoder fra kunstig intelligens i Lånekassen, i sammenheng med deres interne flytting til skytjenester (Microsoft). Jeg ble her bedre kjent med blant annet Microsoft Azure og Python for maskinlæring (tekstanalyse).
 
-`Sommer 2018` __SSB__ - *Intern* \
+`Sommer 2018` __SSB__ - *intern* \
 Ble kjent med diverse anvendelser av maskinlæring i statistikkproduksjon, spesielt for utregning av KPI og arbeidsmarkedsstatistikk. Jeg ble her kjent med R og SQL, og fikk i detalj se hvordan man i praksis kan gjøre maskinlæring på tekst, spesifikt ved hjelp av bag-of-words og support vector machine (SVM)-algoritmer.
 
-`2016-2018` __Sonat__ - *Webutvikler* \
+`2016-2018` __Sonat__ - *webutvikler* \
 Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en toårig periode. 
 
 ## Språk
