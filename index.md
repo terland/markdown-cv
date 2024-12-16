@@ -54,13 +54,13 @@ While studying in Trondheim, I was employed as a data scientist at Lånekassen (
 `Summer 2018` __SSB (Statistics Norway)__ - *Intern* \
 During a summer project in Statistics Norway, I learned about production of official statistics in general and in particular applications of machine learning in these processes. It was here that I was first familiarized with technologies like R, SQL and algorithms for supervised machine learning such as support vector machines (SVMs).
 
-`2016-2018` __Sonat__ - *Web developer* \
+`2016-2018` __Sonat__ - *Web Developer* \
 I implemented and maintained the webpage of Bergen-based IT-consulting company Sonat over a two-year period.
 
 ## Languages
-- __English__ - fluent
-- __Norwegian__ - fluent
-- __German__ - approximately level C1
+- __English__ - Fluent
+- __Norwegian__ - Fluent
+- __German__ - Approximately level C1
 
 ## A selection of conferences attended
 `Summer 2024` __International Conference on Representation theory of Algebras (ICRA 21)__
