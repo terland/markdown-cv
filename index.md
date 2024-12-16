@@ -63,13 +63,13 @@ I implemented and maintained the webpage of Bergen-based IT-consulting company S
 - __German__ - approximately level C1
 
 ## A selection of conferences attended
-`Summer 2024` __International Conference on Representation theory of Algebras (ICRA 21)__ \
+`Summer 2024` __International Conference on Representation theory of Algebras (ICRA 21)__\
 
-`Autumn 2023` __Nordic AI meetup__ \
+`Autumn 2023` __Nordic AI meetup__\
 
-`Summer 2023` __BIREP Summer school on Topological Data Analysis__ \
+`Summer 2023` __BIREP Summer school on Topological Data Analysis__\
 
-`Autumn 2022` __Gemini School on Quantum Computation__ \
+`Autumn 2022` __Gemini School on Quantum Computation__\
 
 
 
