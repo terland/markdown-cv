@@ -42,7 +42,7 @@ Bachelor i matematikk. Jeg skrev bacheloroppgave om grafteori. Siste år tok jeg
 
 ## Erfaring
 `2021-` **NTNU** - *stipendiat* \
-Som stipendiat ved NTNU har jeg arbeidet med blant annet beregningsorientert algebra, tett knyttet til felt som topologisk dataanalyse (TDA), et felt innen matematikk som gir nyttige  clustering-algoritmer for big data (spesifikt gjerne punktskydata). Arbeidsoppgavene mine har til daglig inkludert å designe og implementere algoritmer, å skrive artikler, undervise og reise til internasjonale konferanser hvor jeg holder meg oppdatert på feltet og treffer samarbeidspartnere.
+Som stipendiat ved NTNU har jeg arbeidet med blant annet beregningsorientert algebra, tett knyttet til felt som topologisk dataanalyse (TDA), et felt innen matematikk som gir nyttige  clustering-algoritmer for big data (spesifikt gjerne punktskydata). Arbeidsoppgavene mine har til daglig inkludert å designe og implementere algoritmer, skrive artikler og undervise.
 
 `Sommer 2020` **Itera** - *intern* \
 Arbeidet med avansert analyse for et stort norsk fiskeindustriselskap. Teamet vårt organiserte data fra klienten og andre kilder i en database, som vi da senere systematisk analyserte, skapte visualiseringer og modeller som enkelt kunne presenteres for kunden. Som en del av dette arbeidet jobbet jeg med å designe en proof-of-concept modell av et marked for prosessering av visse typer pelagisk fisk. 
