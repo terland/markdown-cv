@@ -63,7 +63,6 @@ Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to�
 - __Tysk__ - omtrent nivå C1
 
 ## Utvalg kurs og konferanser
-
 `Høst 2023` __Nordic AI meetup__ 
 
 `Sommer 2023` __BIREP Summer school on Topological Data Analysis__ 
@@ -72,7 +71,6 @@ Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to�
 
 
 ## Frivillige engasjement og hobbyer
-
 `2018-`
 __Styremedlem i Norsk informatikkolympiade__\
 Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge. Her har jeg vært med å organisere nasjonale og internasjonal informatikkolympiader. 
@@ -80,11 +78,6 @@ Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for vide
 `2021-2023`
 __Formidling av risiko i kryptovaluta__\
 Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til stablecoins, en type kryptovaluta som skal har som hensikt å holde en fast verdi, oppgit i en annen valuta.
-
-`2018-` __Langdistanseløping__
-- Trondheim Halvmaraton, 2024
-- Hardangervidda Halvmaraton, 2023
-- HAJ Hannover Halvmaraton, 2019
 
 
 ## Referanser
