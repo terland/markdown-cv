@@ -18,7 +18,7 @@ __Forskning og analyse__\
 Både som stipendiat i matematikk og som sommerstudent i SSB har analyse- og forskningsarbeid, både selvstendig og i team, vært den viktigste arbeidsoppgaven min.
 
 __Data science og modellering__\
-Jeg har gjennom flere engasjement sett hvordan maskinlæringsmodeller kan implementeres og brukes til å optimalisere og effektivisere prosesser i både offentlig og privat sektor.
+Jeg har gjennom flere engasjement bidratt til at maskinlæringsmodeller kan anvendes for å optimalisere og effektivisere prosesser i både offentlig og privat sektor.
 
 __IT og algoritmer__\
 Både gjennom jobb og hobby har jeg fått omfattende erfaring med å implementere og utvikle algoritmer, samt bruk av teknologi som databaser og skytjenester: I SSB ble jeg kjent med SQL og SPARQL, samt R og Python for analysearbeid. I Lånekassen fikk jeg jobbet mer med SQL og Python, samt Azure. På fritiden og i nåværende stilling bruker jeg C++ og mer spesialiserte språk som GAP for beregninger i algebra. 
