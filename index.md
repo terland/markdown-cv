@@ -21,10 +21,10 @@ __Data science og modellering__\
 Jeg har gjennom flere engasjement sett hvordan maskinlæringsmodeller kan implementeres og brukes til å optimalisere og effektivisere prosesser i både offentlig og privat sektor.
 
 __IT og algoritmer__\
-Både gjennom jobb og hobby har jeg fått omfattende erfaring med å implementere og utvikle algoritmer, samt bruk av teknologi som databaser og cloud computing. I SSB ble jeg kjent med teknologier som  SQL og SPARQL, samt R og Python for analysearbeid. I Lånekassen fikk jeg jobbet mer med SQP og Python, og på fritiden og i nåværende stilling bruker jeg C++ og mer spesialiserte språk som GAP for beregninger i algebra. I 2014-2016 konkurrerte jeg i informatikk-konkurranser og siden 2018 har jeg vært styremedlem i Norsk Informatikkolympiade, hvor vi lager programmeringskonkurranser for videregåendeelever. 
+Både gjennom jobb og hobby har jeg fått omfattende erfaring med å implementere og utvikle algoritmer, samt bruk av teknologi som databaser og skytjenester: I SSB ble jeg kjent med SQL og SPARQL, samt R og Python for analysearbeid. I Lånekassen fikk jeg jobbet mer med SQL og Python, samt Azure. På fritiden og i nåværende stilling bruker jeg C++ og mer spesialiserte språk som GAP for beregninger i algebra. 
 
 __Undervisning og formidling__ \
-Høsten 2023, våren 2024 og våren 2025 har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og ingeniør-studenter på Gløshaugen. Jeg synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende, og har satt stor pris på å kunne forelese for studenter.
+De siste to år har jeg forelest i matematikk for datavitenskap-, samfunnsøkonomi- og ingeniør-studenter på Gløshaugen. Jeg synes alltid det er en spennende utfordring å måtte koke ned noe teknisk og komplekst til noe forståelig og sammenhengende, og har satt stor pris på å kunne forelese for studenter.
 
 __Ledelse og teamarbeid__\
 Jeg har erfaring med ledelse både som underviser og som arrangør av programmeringskonkurranser. Arbeidet mitt i Lånekassen og Itera var organisert som prosjektarbeid i teams, og i forskingsarbeidet mitt ved NTNU har jeg samarbeidet internasjonalt med forskere i for eksempel Tyskland og Frankrike.
@@ -63,21 +63,18 @@ Jeg implementerte og vedlikeholdt hjemmesiden til IT-selskapet Sonat over en to�
 - __Tysk__ - omtrent nivå C1
 
 ## Utvalg kurs og konferanser
-`Høst 2023` __Nordic AI meetup__ 
-
-`Sommer 2023` __BIREP Summer school on Topological Data Analysis__ 
-
-`Høst 2022` __Gemini School on Quantum Computation__ 
+`Høst 2023` __Nordic AI meetup__\
+`Sommer 2023` __BIREP Summer school on Topological Data Analysis__\
+`Høst 2022` __Gemini School on Quantum Computation__\
 
 
 ## Frivillige engasjement og hobbyer
-`2018-`
-__Styremedlem i Norsk informatikkolympiade__\
-Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge. Her har jeg vært med å organisere nasjonale og internasjonal informatikkolympiader. 
+`2018-` __Styremedlem i Norsk informatikkolympiade__\
+Jeg har i flere år vært engasjert i NIO, en programmeringskonkurranse for videregåendeelever i Norge. Jeg konkurrerte selv i 2014-2016 og har siden 2017 vært med å organisere konkurranser.
 
 `2021-2023`
 __Formidling av risiko i kryptovaluta__\
-Jeg har lenge vært opptatt av risiko i kryptovalutamarkedet, og skrev i DN og Finansavisen om risiko knyttet til stablecoins, en type kryptovaluta som skal har som hensikt å holde en fast verdi, oppgit i en annen valuta.
+Jeg har skrevet leserinnlegg i DN og Finansavisen om risiko knyttet til stablecoins, en type kryptovaluta som skal har som hensikt å holde en fast verdi, oppgit i en annen valuta.
 
 
 ## Referanser
